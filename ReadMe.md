@@ -27,6 +27,7 @@ This Project is broken into 2 Modules:
 	fittslaw_data_analysis. :  The R Project to be run for data analysis 
 	ReadMe  : This document explaining what is what
 	ScreenShots  :  Folder containing screenshots of the project
+	KARRA_CS_522_HW_3  :  Project Report 
 
 **Steps to run the experiment:
 1. Open the Java Application folder in an IDE (Preferably IntelliJ) - Compile and run the .java files
