@@ -2,7 +2,9 @@
 Read Me - Fitt's Law Experiment
 *******************************
 
-The Project is broken into 2 Modules:
+Download the project at https://github.com/lkarra2/FittsLaw
+
+This Project is broken into 2 Modules:
 
  circledata
 	CaptureData - Stores all data for each click
@@ -14,12 +16,12 @@ The Project is broken into 2 Modules:
 	GetCircle - Plots n given points onto a circle
 	StopWatch - Keeps track of elapsed time
 
-*Requirements to run the experiment:
+**Requirements to run the experiment:
 1. Java
 2. IDE (Preferably IntelliJ, optional)
 3. R 
 
-*This Folder consists of 2 Directories:
+**This Folder consists of 2 Directories:
 
 	fittslawhw3  :  The Java Application to be run
 	fittslaw_data_analysis. :  The R Project to be run for data analysis 

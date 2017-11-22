@@ -67,8 +67,8 @@
       <file leaf-file-name="GetCircle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fittsmain/GetCircle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="87" lean-forward="false" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
+            <state relative-caret-position="510">
+              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -447,12 +447,12 @@
       <workItem from="1510953675265" duration="16797000" />
       <workItem from="1511136360274" duration="12150000" />
       <workItem from="1511241242776" duration="20823000" />
-      <workItem from="1511314932824" duration="4068000" />
+      <workItem from="1511314932824" duration="4533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74051000" />
+    <option name="totallyTimeSpent" value="74516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1366" height="873" extended-state="0" />
@@ -690,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fittsmain/GetCircle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="87" lean-forward="false" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
+        <state relative-caret-position="510">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
