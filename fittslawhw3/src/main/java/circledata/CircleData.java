@@ -1,5 +1,8 @@
 package circledata;
 
+/*
+    The CircleData.java class gets and sets all circle data
+ */
 public class CircleData {
 
     public int getX() {

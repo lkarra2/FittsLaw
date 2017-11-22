@@ -1,9 +1,12 @@
 package fittsmain;
 
 import circledata.CircleData;
-
 import javax.swing.*;
 import java.util.ArrayList;
+
+/*
+    The GetCircle.java class plots n given points on a circle equidistant to each other
+ */
 
 public class GetCircle extends JPanel {
 
