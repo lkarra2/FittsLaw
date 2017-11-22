@@ -1,0 +1,74 @@
+]0;~/Current Project/fittslawhw3/fittslawhw3[?1034hManaswis-MacBook-Pro:fittslawhw3 manaswikarra$ [KManaswis-MacBook-Pro:fittslawhw3 manaswikarra$ ls
+fittslawhw3.Rproj
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ cd ..
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ ls
+data.csv	fittslawhw3	out
+data.txt	fittslawhw3.iml	src
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ cd 
+]0;~Manaswis-MacBook-Pro:~ manaswikarra$ ls
+AndroidStudioProjects	Library
+Applications		MonteCarlo
+Books			Movies
+Code			Music
+Current Project		Pictures
+Desktop			Projects
+DestFolder		Public
+Documents		SrcFolder
+Downloads		bash_profile
+Inspiration
+]0;~Manaswis-MacBook-Pro:~ manaswikarra$ 
+]0;~Manaswis-MacBook-Pro:~ manaswikarra$ 
+]0;~Manaswis-MacBook-Pro:~ manaswikarra$ cd C
+Code/            Current Project/ 
+Manaswis-MacBook-Pro:~ manaswikarra$ cd Current\ Project/
+]0;~/Current ProjectManaswis-MacBook-Pro:Current Project manaswikarra$ ls
+Fitts
+Fitts-master
+MyFittsLaw
+RCaller-3.0.jar
+RCaller-3.1-SNAPSHOT-jar-with-dependencies.jar
+RCaller.java
+Runiversal
+fittslawhw3
+myExchange.class
+myExchange.java
+rJava
+rcaller
+testRCaller.java
+]0;~/Current ProjectManaswis-MacBook-Pro:Current Project manaswikarra$ cd fittslawhw3/
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ ls
+data.csv	fittslawhw3	out
+data.txt	fittslawhw3.iml	src
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ cd fittslawhw3
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ ls
+fittslawhw3.Rproj
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ ls ../
+data.csv	fittslawhw3	out
+data.txt	fittslawhw3.iml	src
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ vim ../data.csv 
+[?2004h]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ vim ../data.csv 
+[?2004h]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ clear
+[H[2J]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ clearvim ../data.csv 
+[?2004h]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ vim ../data.csv clear[Kvim ../data.csv [10Pls ../[Kcd fittslawhw3ls[K ../
+data.csv	fittslawhw3	out
+data.txt	fittslawhw3.iml	src
+]0;~/Current Project/fittslawhw3/fittslawhw3Manaswis-MacBook-Pro:fittslawhw3 manaswikarra$ 

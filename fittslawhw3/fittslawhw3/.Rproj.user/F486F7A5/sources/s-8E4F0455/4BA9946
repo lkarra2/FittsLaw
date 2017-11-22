@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511292079846.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BA9946",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1511292079846,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BEA71A47",
+        "caption" : "IDAggre",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=IDAggre&cache_key=BEA71A47",
+        "displayedObservations" : "6",
+        "environment" : "",
+        "object" : "IDAggre",
+        "preview" : "0",
+        "totalObservations" : "6",
+        "variables" : "4"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
